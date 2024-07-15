@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Anime-galaxy/static/css/main.c77b1b7f.css",
+    "main.js": "/Anime-galaxy/static/js/main.409c4773.js",
+    "static/js/453.fd7d6df3.chunk.js": "/Anime-galaxy/static/js/453.fd7d6df3.chunk.js",
+    "index.html": "/Anime-galaxy/index.html",
+    "main.c77b1b7f.css.map": "/Anime-galaxy/static/css/main.c77b1b7f.css.map",
+    "main.409c4773.js.map": "/Anime-galaxy/static/js/main.409c4773.js.map",
+    "453.fd7d6df3.chunk.js.map": "/Anime-galaxy/static/js/453.fd7d6df3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c77b1b7f.css",
+    "static/js/main.409c4773.js"
+  ]
+}
